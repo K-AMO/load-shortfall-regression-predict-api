@@ -6,10 +6,11 @@ We spent a month working through various regression models and selected the mode
 
 Included in this folder is our notebook are the following topics:
 
-Introduction
-Exploratory Data Analysis
-Data Engineering
-Modelling
-Model Performance
-Model Explanations
+- Introduction
+- Exploratory Data Analysis
+- Data Engineering
+- Modelling
+- Model Performance
+- Model Explanations
+
 We have included the train data and the test data, if you have any questions fill free to reach to us.
